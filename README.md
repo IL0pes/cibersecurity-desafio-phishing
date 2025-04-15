@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do GitHub
 
 ### Ferramentas
 
@@ -14,7 +14,7 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: https://www.github.com./login
 
 ### Resutados
 
